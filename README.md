@@ -1,6 +1,6 @@
 # Study-projects-in-Uni
 
-# <center>This repository is for the training projects during my studies in the university!</center>
+## <center> This repository is for the training projects during my studies in the university! </center>
 
 * includes all the projects that I have done when trained Python in Uni
 * all the projects in ML
@@ -9,7 +9,7 @@
 2. ML
 3. Chaos theory on revolutionary movement equations
 
-##<center>Useful links and pictures<center>
+## <center> Useful links and pictures </center>
 
 *[How to visualize your data - GitHub notebook](https://github.com/shakhovak/Study-projects-in-Uni/blob/main/Shakhova_Bank_Churn_homework.ipynb)
 
