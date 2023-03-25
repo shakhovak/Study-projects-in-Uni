@@ -14,3 +14,5 @@
 *[How to visualize your data - GitHub notebook](https://github.com/shakhovak/Study-projects-in-Uni/blob/main/Shakhova_Bank_Churn_homework.ipynb)
 
 ![](https://i.pinimg.com/originals/32/b2/41/32b241ca4f8d99e4d049e710eddf5632.jpg)
+
+Testing changes in text files...
